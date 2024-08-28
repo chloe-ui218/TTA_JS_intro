@@ -1,5 +1,5 @@
 // if-else cotnrol structure
-let age = 31;
+let age = 17;
 
 console.log('You are ${age} years old');
 
