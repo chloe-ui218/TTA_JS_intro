@@ -10,5 +10,15 @@ for (let i = 0; i < fruits.length; i++) {
     console.log(' ' + j + '. '+ fruits[i]);
 }
 console.log("--------------------");
+
+console.log("==== Vegetables ====");
+let n = 0;
+while(n < vegetables.length){
+    let m = n +1;
+    console.log('' + n + '. ' + vegetables[n]);
+    n++;
+}
+console.log("---------------------");
+
 console.log("===========================");
 
